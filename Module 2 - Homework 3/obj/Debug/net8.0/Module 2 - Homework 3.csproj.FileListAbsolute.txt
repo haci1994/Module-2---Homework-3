@@ -1,0 +1,14 @@
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.AssemblyInfoInputs.cache
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.AssemblyInfo.cs
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.csproj.CoreCompileInputs.cache
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\bin\Debug\net8.0\Module 2 - Homework 3.exe
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\bin\Debug\net8.0\Module 2 - Homework 3.deps.json
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\bin\Debug\net8.0\Module 2 - Homework 3.runtimeconfig.json
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\bin\Debug\net8.0\Module 2 - Homework 3.dll
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\bin\Debug\net8.0\Module 2 - Homework 3.pdb
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.dll
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\refint\Module 2 - Homework 3.dll
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.pdb
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\Module 2 - Homework 3.genruntimeconfig.cache
+C:\Users\mmzad\Desktop\M.Haji - Homework\Module 2 - Homework 3\Module 2 - Homework 3\obj\Debug\net8.0\ref\Module 2 - Homework 3.dll
