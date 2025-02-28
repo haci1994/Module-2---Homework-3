@@ -4,10 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a text to count all vowels in:");
-            string text = Console.ReadLine();
+            //// 1st TASK TEST
 
-            text.VowelCount();
+            //Console.WriteLine("Enter a text to count all vowels in:");
+            //string text = Console.ReadLine();
+
+            //text.VowelCount();
+
+            // 2nd TASK TEST
+
+            decimal price = 200.00m;
+            decimal discount = 15.00m;
+
+            decimal discountPrice = price.Discount(discount);
+
+            Console.WriteLine($"Original price is: {price}");
+            Console.WriteLine($"Discount price is ({discount} % off): {discountPrice}");
         }
     }
 
@@ -19,7 +31,7 @@
             int _count = 0;
 
             for (int i = 0; i < chekingText.Length; i++)
-            { 
+            {
                 if (chekingText[i] == 'a' || chekingText[i] == 'e' || chekingText[i] == 'o' || chekingText[i] == 'i' || chekingText[i] == 'u')
                 {
                     _count++;
@@ -27,6 +39,11 @@
             }
 
             Console.WriteLine($"Number of vowels in '{text}': {_count}");
+        }
+
+        public static decimal Discount(this decimal price, decimal percent)
+        {
+            return price - price * percent / 100;
         }
     }
 }
